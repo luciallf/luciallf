@@ -4,7 +4,6 @@
     <img src="https://badge42.vercel.app/api/v2/clhuk067e005808l7dp7kmhr2/stats?cursusId=58&coalitionId=undefined" alt="lucilope's 42 stats" />
   </a>
 </div>
-<!--
 <h1 align="center">Hi! 👋, I am Lucía</h1>
 <h3 align="center">I'm a skilled and driven data scientist with expertise in analysis, machine learning, and effective communication of insights.</h3>
 
