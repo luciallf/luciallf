@@ -1,7 +1,6 @@
 ### Hi there 👋
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhuk067e005808l7dp7kmhr2/stats?cursusId=58&coalitionId=undefined" alt="lucilope's 42 stats" /></a>
 <!--
-**luciallf/luciallf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi! 👋, I am Lucía</h1>
 <h3 align="center">I'm a skilled and driven data scientist with expertise in analysis, machine learning, and effective communication of insights.</h3>
 
