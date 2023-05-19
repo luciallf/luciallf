@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi! 👋, I am Lucía</h1>  
+<h1 align="center">👋, I'm Lucía</h1>  
 <h3 align="center">I'm a skilled and driven data scientist with expertise in analysis, machine learning, and effective communication of insights.</h3>  
   
 - 📫 How to reach me **lucialopezllf@gmail.com**  
