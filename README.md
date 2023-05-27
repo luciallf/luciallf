@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I'm passionate about data, and you can find a variety of projects on my GitHub that reflect my experience in different areas of computer science. In particular, I have developed projects in Cybersecurity with Python, Frontend, and C language. However, my specialty and main focus is in the field of Data Analysis and Science. Therefore, you will find a wide range of projects focused on this field, that showcase my ability in data handling and analysis, as well as my capacity to create innovative solutions.<br>
 
-🌱 I'm about to take two courses to improve my skills and knowledge in the field of data science: one in Artificial Intelligence and Machine Learning at UMA, and another on the cloud computing platform AZURE. Both courses will allow me to expand my knowledge in data processing and analysis for my professional development in the field of data science.<br>
+🌱 I have just completed a Master's Degree in Data Science and Business Analytics with IMF Business School and Nebrija University. I'm about to take two courses to improve my skills and knowledge in the field of data science: one in Artificial Intelligence and Machine Learning at UMA, and another on the cloud computing platform AZURE. Both courses will allow me to expand my knowledge in data processing and analysis for my professional development in the field of data science.<br>
 
 
 ## 🌐 Socials:
